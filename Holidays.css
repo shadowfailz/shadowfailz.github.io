@@ -8,6 +8,14 @@ body{
 	margin:0px;
 	background-color: #808080;
 }
+
+p1{
+	margin-left:100px auto;
+	margin-right:100px auto;
+	
+	
+}
+
 .header{
 	height:67px;
 	background-color: #000000;
