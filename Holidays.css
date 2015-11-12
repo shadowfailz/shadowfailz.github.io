@@ -8,9 +8,10 @@ h1{
  body
     {
 		background-color: black;
-        width:80%;
+        width:40%;
         margin-left:auto;
         margin-right:auto;
+		text-align:center;
     }
 
 
